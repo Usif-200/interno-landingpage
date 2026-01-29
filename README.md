@@ -1,10 +1,10 @@
-# 🏠 Project: Interno Landing Page
+# Interno Landing Page
 
 A clean, modern landing page designed to showcase architecture & interior design services with elegance and clarity.
 
 ---
 
-## ✨ Features & Highlights
+##  Features & Highlights
 
 - **Hero Section** — Bold headline: *“Let Your Home Be Unique”* with a clear call-to-action (Get Free Estimation)  
 - **Services Breakdown** — Sections for “Project Planning”, “Gaining Materials”, and “Project Execution” with brief descriptions  
@@ -19,7 +19,7 @@ A clean, modern landing page designed to showcase architecture & interior design
 
 ---
 
-## 🧰 Tech Stack & Tools Used
+##  Tech Stack & Tools Used
 
 - ** vanilla js** for a dynamic and interactive UI  
 - CSS / tailwindcss / Styled Components   
@@ -29,7 +29,7 @@ A clean, modern landing page designed to showcase architecture & interior design
 
 ---
 
-## ✅ Why This Landing Page Matters
+##  Why This Landing Page Matters
 
 - It captures attention immediately — strong hero + clear CTA.  
 - It builds trust — via testimonials, project gallery, stats.  
@@ -42,7 +42,5 @@ A clean, modern landing page designed to showcase architecture & interior design
 
 Explore it live here: [Interno Landing Page](https://precious-sunburst-df6c66.netlify.app/)
 
----
 
-> *“A landing page should not just be beautiful — it must communicate, convert, and build trust.”*
 
